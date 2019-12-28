@@ -1,4 +1,6 @@
-# vue-tutorial
+# Vue.js Tutorial: Learn to Build a Web App Quickly
+
+This source code is part of [Vue.js Tutorial: Learn to Build a Web App Quickly]().
 
 ## Project setup
 ```
