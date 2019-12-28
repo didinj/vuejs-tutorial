@@ -1,6 +1,6 @@
 # Vue.js Tutorial: Learn to Build a Web App Quickly
 
-This source code is part of [Vue.js Tutorial: Learn to Build a Web App Quickly]().
+This source code is part of [Vue.js Tutorial: Learn to Build a Web App Quickly](https://www.djamware.com/post/5e07231cecfe522f24e9cef0/vuejs-tutorial-learn-to-build-a-web-app-quickly).
 
 ## Project setup
 ```
