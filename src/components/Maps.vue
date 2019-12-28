@@ -6,7 +6,7 @@
       </h2>
       <GoogleMapLoader
         :mapConfig="mapConfig"
-        apiKey="AIzaSyBgZZK8umUqJn8d5CoIZqWPJ_qtMfqD9q0"
+        apiKey="YOUR_API_KEY"
       >
       </GoogleMapLoader>
     </b-col>
